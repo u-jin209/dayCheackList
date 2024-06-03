@@ -1,0 +1,27 @@
+body {
+    width : 20rem;
+    height : 25rem;
+    padding : 5%;
+}
+.checkHeader{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.newCheck{
+    display:flex;
+     margin-top: 5%;
+    margin-bottom: 5%;
+}
+.newContent{
+    width: 90%;
+    border: none;
+}
+.checkList{
+    height : 15rem;
+    max-height : 15rem;
+}
+.addBtn{
+    align-content: center;
+    width: 10%;
+    text-align: center;
+}
